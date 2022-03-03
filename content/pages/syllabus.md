@@ -18,7 +18,7 @@ This class covers mathematical foundations of parallel hardware, from computer a
 
 The class is suitable for both theory and systems students. M.Eng. students can use the class to satisfy their Engineering Concentration in either Theoretical Computer Science or Computer Systems and Architecture Engineering.
 
-A detailed schedule of topic coverage will appear in the {{< resource_link 5850ead6-9503-4604-22db-260670ac9423 "course calendar" >}}.
+A detailed schedule of topic coverage will appear in the {{% resource_link 5850ead6-9503-4604-22db-260670ac9423 "course calendar" %}}.
 
 Prerequisites
 -------------
